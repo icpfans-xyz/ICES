@@ -36,7 +36,7 @@ https://github.com/icpfans-xyz/ices-backend
 
 An open sourced interface for ICES Explorer
 
-[https://github.com/icpfans-xyz/ices-dashboard](https://github.com/icpfans-xyz/ices-dashboard)
+https://github.com/icpfans-xyz/ices-explorer
 
 ## ICES Document
 
