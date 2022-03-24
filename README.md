@@ -1,7 +1,9 @@
 # ICES
+<img src="https://doc.ices.one/assets/images/logo_full_title-cf61cd610321bc6205ec642846bfcfdf.png" width="70%" />
 A storage and analysis service for canister's event logs on Dfinity.
 
 This repo contains all ICES repos.
+
 
 
 
