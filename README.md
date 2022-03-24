@@ -29,9 +29,12 @@ Synchronize  ICES Canister Contract data to database
 
 ICES backend API service
 
+https://github.com/icpfans-xyz/ices-backend
+
+
 ## ICES Explorer Frontend
 
-An open sourced interface for ICES Explorer.
+An open sourced interface for ICES Explorer
 
 [https://github.com/icpfans-xyz/ices-dashboard](https://github.com/icpfans-xyz/ices-dashboard)
 
