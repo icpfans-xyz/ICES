@@ -44,7 +44,7 @@ ICES docs website
 
 [https://github.com/icpfans-xyz/ices-doc](https://github.com/icpfans-xyz/ices-doc)
 
-[Motoko SDK]https://doc.ices.one/guide/tutorial-motoko
+[Motoko SDK](https://doc.ices.one/guide/tutorial-motoko)
 
 [Rust SDK](https://doc.ices.one/guide/tutorial-rust)
 
