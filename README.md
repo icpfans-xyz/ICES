@@ -44,6 +44,20 @@ ICES docs website
 
 [https://github.com/icpfans-xyz/ices-doc](https://github.com/icpfans-xyz/ices-doc)
 
+[Motoko SDK]https://doc.ices.one/guide/tutorial-motoko
+
+[Rust SDK](https://doc.ices.one/guide/tutorial-rust)
+
+[Explorer](https://doc.ices.one/guide/explorer)
+
+[GrapQL API](https://doc.ices.one/APIs/GraphQL)
+
+[REST API](https://doc.ices.one/APIs/REST%20API)
+
+Rest Swagger UI https://rest-api.ices.one/
+
+
+
 ## ICES Website
 
 ICES website
